@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+.habit { margin: 10px 0; padding: 10px; border: 1px solid #ccc; }
+.date-picker { margin: 10px 0; }
+.analytics { margin: 20px 0; }
+.pro-toggle { margin: 20px 0; }
+button { margin: 5px; padding: 5px 10px; }
+input { margin: 5px; padding: 5px; }
